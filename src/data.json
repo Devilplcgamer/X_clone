@@ -1,0 +1,106 @@
+[
+    {
+        "id":1,
+        "user":"Harish",
+        "profilepic":"https://randomuser.me/api/portraits/men/43.jpg",
+        "content":"Vacation in Thailand",
+        "timestamp":"2025-02-20T12:00:00Z",
+        "likes":10,
+        "retweets":3,
+        "category":"Home"
+    },
+    {
+        "id":2,
+        "user":"Mariam",
+        "profilepic":"https://randomuser.me/api/portraits/women/90.jpg",
+        "content":"Graduation Day",
+        "timestamp":"2024-09-18T10:00:00Z",
+        "likes":60,
+        "retweets":10,
+        "category":"Mentions"
+    },
+    {
+        "id":3,
+        "user":"Raman",
+        "profilepic":"https://randomuser.me/api/portraits/men/45.jpg",
+        "content":"Hackathon Glimpse",
+        "timestamp":"2025-01-11T09:00:00Z",
+        "likes":200,
+        "retweets":50,
+        "category":"Search"
+    },
+    {
+        "id":4,
+        "user":"Nola",
+        "profilepic":"https://randomuser.me/api/portraits/women/49.jpg",
+        "content":"Boring Life!!",
+        "timestamp":"2024-09-13T16:01:00Z",
+        "likes":50,
+        "retweets":20,
+        "category":"Mentions"
+    },
+    {
+        "id":5,
+        "user":"Nandini",
+        "profilepic":"https://randomuser.me/api/portraits/women/9.jpg",
+        "content":"First Day at Google",
+        "timestamp":"2024-09-13T16:01:00Z",
+        "likes":500,
+        "retweets":70,
+        "category":"Search"
+    },
+    {
+        "id":6,
+        "user":"George",
+        "profilepic":"https://randomuser.me/api/portraits/men/72.jpg",
+        "content":"Biceps Day",
+        "timestamp":"2022-10-15T17:05:00Z",
+        "likes":50,
+        "retweets":70,
+        "category":"Home"
+    },
+    {
+        
+            "id":7,
+            "user":"Tanya",
+            "profilepic":"https://randomuser.me/api/portraits/women/14.jpg",
+            "content":"Cheat Meal",
+            "timestamp":"2023-11-22T18:06:00Z",
+            "likes":30,
+            "retweets":70,
+            "category":"Home"
+        
+    },
+    {
+        "id":8,
+        "user":"Ramesh",
+        "profilepic":"https://randomuser.me/api/portraits/men/8.jpg",
+        "content":"Handsome Me",
+        "timestamp":"2024-10-25T18:06:00Z",
+        "likes":80,
+        "retweets":40,
+        "category":"Mentions"
+    },
+    {
+        
+        "id":9,
+        "user":"Moana",
+        "profilepic":"https://randomuser.me/api/portraits/women/33.jpg",
+        "content":"Sleepy",
+        "timestamp":"2025-11-23T18:06:00Z",
+        "likes":50,
+        "retweets":10,
+        "category":"Home"
+    },
+    {
+        "id":10,
+        "user":"Suresh",
+        "profilepic":"https://randomuser.me/api/portraits/men/39.jpg",
+        "content":"India Vibes",
+        "timestamp":"2025-10-23T18:06:00Z",
+        "likes":700,
+        "retweets":100,
+        "category":"Search"
+    }
+    
+]   
